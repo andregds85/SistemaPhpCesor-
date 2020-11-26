@@ -1,0 +1,25 @@
+[18-May-2020 21:54:25 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[18-May-2020 21:54:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/eletivas/cesor.eletivassc.com.br/content/conecta.php on line 9
+[18-May-2020 21:54:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 9
+[18-May-2020 21:54:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 13
+[18-May-2020 21:55:26 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[18-May-2020 21:55:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/eletivas/cesor.eletivassc.com.br/content/conecta.php on line 9
+[18-May-2020 21:55:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 9
+[18-May-2020 21:55:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 13
+[18-May-2020 21:55:52 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[18-May-2020 21:55:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/eletivas/cesor.eletivassc.com.br/content/conecta.php on line 9
+[18-May-2020 21:55:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 9
+[18-May-2020 21:55:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 13
+[18-May-2020 21:56:45 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[18-May-2020 21:56:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/eletivas/cesor.eletivassc.com.br/content/conecta.php on line 9
+[18-May-2020 21:56:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 9
+[18-May-2020 21:56:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 13
+[19-May-2020 03:52:45 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[19-May-2020 03:52:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/eletivas/cesor.eletivassc.com.br/content/conecta.php on line 9
+[19-May-2020 03:52:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 9
+[19-May-2020 03:52:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 13
+[19-May-2020 03:56:00 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[19-May-2020 03:59:57 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[19-May-2020 04:09:02 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[06-Jun-2020 06:37:47 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4
+[14-Sep-2020 18:24:34 UTC] PHP Notice:  Undefined index: remember-me in /home/eletivas/cesor.eletivassc.com.br/content/home/valida_usuario.php on line 4

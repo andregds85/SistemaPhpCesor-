@@ -1,0 +1,59 @@
+SUBGRUPO;desc_subgrupo_sigtap;COD-SUBGRUPO
+-1;Não encontrado;-1-Não encontrado
+101;Ações coletivas/individuais em saúde;101-Ações coletivas/individuais em saúde
+102;Vigilância em saúde;102-Vigilância em saúde
+201;Coleta de material;201-Coleta de material
+202;Diagnóstico em laboratório clínico;202-Diagnóstico em laboratório clínico
+203;Diagnóstico por anatomia patológica e citopatologia;203-Diagnóstico por anatomia patológica e citopatologia
+204;Diagnóstico por radiologia;204-Diagnóstico por radiologia
+205;Diagnóstico por ultrasonografia;205-Diagnóstico por ultrasonografia
+206;Diagnóstico por tomografia;206-Diagnóstico por tomografia
+207;Diagnóstico por ressonância magnética;207-Diagnóstico por ressonância magnética
+208;Diagnóstico por medicina nuclear in vivo;208-Diagnóstico por medicina nuclear in vivo
+209;Diagnóstico por endoscopia;209-Diagnóstico por endoscopia
+210;Diagnóstico por radiologia intervencionista;210-Diagnóstico por radiologia intervencionista
+211;Métodos diagnósticos em especialidades;211-Métodos diagnósticos em especialidades
+212;Diagnóstico e procedimentos especiais em hemoterapia;212-Diagnóstico e procedimentos especiais em hemoterapia
+213;Diagnóstico em vigilância epidemiológica e ambiental;213-Diagnóstico em vigilância epidemiológica e ambiental
+214;Diagnóstico por teste rápido;214-Diagnóstico por teste rápido
+301;Consultas / Atendimentos / Acompanhamentos;301-Consultas / Atendimentos / Acompanhamentos
+302;Fisioterapia;302-Fisioterapia
+303;Tratamentos clínicos (outras especialidades);303-Tratamentos clínicos (outras especialidades)
+304;Tratamento em oncologia;304-Tratamento em oncologia
+305;Tratamento em nefrologia;305-Tratamento em nefrologia
+306;Hemoterapia;306-Hemoterapia
+307;Tratamentos odontológicos;307-Tratamentos odontológicos
+308;Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas;308-Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas
+309;Terapias especializadas;309-Terapias especializadas
+310;Parto e nascimento;310-Parto e nascimento
+401;Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa;401-Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa
+402;Cirurgia de glândulas endócrinas;402-Cirurgia de glândulas endócrinas
+403;Cirurgia do sistema nervoso central e periférico;403-Cirurgia do sistema nervoso central e periférico
+404;Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço;404-Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço
+405;Cirurgia do aparelho da visão;405-Cirurgia do aparelho da visão
+406;Cirurgia do aparelho circulatório;406-Cirurgia do aparelho circulatório
+407;Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal;407-Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal
+408;Cirurgia do sistema osteomuscular;408-Cirurgia do sistema osteomuscular
+409;Cirurgia do aparelho geniturinário;409-Cirurgia do aparelho geniturinário
+410;Cirurgia de mama;410-Cirurgia de mama
+411;Cirurgia obstétrica;411-Cirurgia obstétrica
+412;Cirurgia torácica;412-Cirurgia torácica
+413;Cirurgia reparadora;413-Cirurgia reparadora
+414;Bucomaxilofacial;414-Bucomaxilofacial
+415;Outras cirurgias;415-Outras cirurgias
+416;Cirurgia em oncologia;416-Cirurgia em oncologia
+417;Anestesiologia;417-Anestesiologia
+418;Cirurgia em nefrologia;418-Cirurgia em nefrologia
+501;Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante;501-Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante
+502;Avaliação de morte encefálica;502-Avaliação de morte encefálica
+503;Ações relacionadas à doação de orgãos e tecidos para transplante;503-Ações relacionadas à doação de orgãos e tecidos para transplante
+504;Processamento de tecidos para transplante;504-Processamento de tecidos para transplante
+505;Transplante de orgãos, tecidos e células;505-Transplante de orgãos, tecidos e células
+506;Acompanhamento e intercorrências no pré e pós-transplante;506-Acompanhamento e intercorrências no pré e pós-transplante
+603;Medicamentos de âmbito hospitalar e urgência;603-Medicamentos de âmbito hospitalar e urgência
+604;Componente Especializado da Assitencia Farmaceutica;604-Componente Especializado da Assitencia Farmaceutica
+701;Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico;701-Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico
+702;Órteses, próteses e materiais especiais relacionados ao ato cirúrgico;702-Órteses, próteses e materiais especiais relacionados ao ato cirúrgico
+801;Ações relacionadas ao estabelecimento;801-Ações relacionadas ao estabelecimento
+802;Ações relacionadas ao atendimento;802-Ações relacionadas ao atendimento
+803;Autorização / Regulação;803-Autorização / Regulação

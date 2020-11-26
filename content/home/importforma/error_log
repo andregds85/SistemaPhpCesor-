@@ -1,0 +1,4 @@
+[06-Jun-2020 06:39:35 UTC] PHP Warning:  Use of undefined constant uploads - assumed 'uploads' (this will throw an Error in a future version of PHP) in /home/eletivas/cesor.eletivassc.com.br/content/home/importforma/recebe_upload.php on line 3
+[06-Jun-2020 06:39:35 UTC] PHP Warning:  mkdir(): File exists in /home/eletivas/cesor.eletivassc.com.br/content/home/importforma/recebe_upload.php on line 3
+[06-Jun-2020 06:39:41 UTC] PHP Warning:  Use of undefined constant uploads - assumed 'uploads' (this will throw an Error in a future version of PHP) in /home/eletivas/cesor.eletivassc.com.br/content/home/importforma/recebe_upload.php on line 3
+[06-Jun-2020 06:39:41 UTC] PHP Warning:  mkdir(): File exists in /home/eletivas/cesor.eletivassc.com.br/content/home/importforma/recebe_upload.php on line 3

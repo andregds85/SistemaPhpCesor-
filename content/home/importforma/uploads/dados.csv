@@ -1,0 +1,344 @@
+FORMA;desc_formaorg_sigtap;COD-FORMA
+-1;Não encontrado;-1-Não encontrado
+10101;Educação em saúde;10101-Educação em saúde
+10102;Saúde bucal;10102-Saúde bucal
+10103;Visita domiciliar;10103-Visita domiciliar
+10104;Alimentação e nutrição;10104-Alimentação e nutrição
+10105;Praticas Integrativas/Complementares;10105-Praticas Integrativas/Complementares
+10201;Vigilancia sanitária;10201-Vigilancia sanitária
+10202;Vigilância em Saúde do Trabalhador;10202-Vigilância em Saúde do Trabalhador
+20101;Coleta de material por meio de punção/biópsia;20101-Coleta de material por meio de punção/biópsia
+20102;Outras formas de coleta de material;20102-Outras formas de coleta de material
+20201;Exames bioquimicos;20201-Exames bioquimicos
+20202;Exames hematológicos e hemostasia;20202-Exames hematológicos e hemostasia
+20203;Exames sorológicos e imunológicos;20203-Exames sorológicos e imunológicos
+20204;Exames coprológicos;20204-Exames coprológicos
+20205;Exames de uroanálise;20205-Exames de uroanálise
+20206;Exames hormonais;20206-Exames hormonais
+20207;Exames toxicológicos ou de monitorização terapêutica;20207-Exames toxicológicos ou de monitorização terapêutica
+20208;Exames microbiológicos;20208-Exames microbiológicos
+20209;Exames em outros líquidos biológicos;20209-Exames em outros líquidos biológicos
+20210;Exames de genética;20210-Exames de genética
+20211;Exames para triagem neonatal;20211-Exames para triagem neonatal
+20212;Exames imunohematológicos;20212-Exames imunohematológicos
+20301;Exames citopatológicos;20301-Exames citopatológicos
+20302;Exames anatomopatológicos;20302-Exames anatomopatológicos
+20401;Exames radiológicos da cabeça e pescoço;20401-Exames radiológicos da cabeça e pescoço
+20402;Exames radiológicos da coluna vertebral;20402-Exames radiológicos da coluna vertebral
+20403;Exames radiológicos do torax e mediastino;20403-Exames radiológicos do torax e mediastino
+20404;Exames radiológicos da cintura escapular e dos membros superiores;20404-Exames radiológicos da cintura escapular e dos membros superiores
+20405;Exames radiológicos do abdomen e pelve;20405-Exames radiológicos do abdomen e pelve
+20406;Exames radiológicos da cintura pélvica e dos membros inferiores;20406-Exames radiológicos da cintura pélvica e dos membros inferiores
+20501;Ultra-sonografias do sistema circulatório (qualquer região anatômica);20501-Ultra-sonografias do sistema circulatório (qualquer região anatômica)
+20502;Ultra-sonografias dos demais sistemas;20502-Ultra-sonografias dos demais sistemas
+20601;Tomografia da cabeça, pescoço e coluna vertebral;20601-Tomografia da cabeça, pescoço e coluna vertebral
+20602;Tomografia do torax e membros superiores;20602-Tomografia do torax e membros superiores
+20603;Tomografia do abdomen, pelve e membros inferiores;20603-Tomografia do abdomen, pelve e membros inferiores
+20701;RM da cabeça, pescoço e coluna vertebral;20701-RM da cabeça, pescoço e coluna vertebral
+20702;RM do torax e membros superiores;20702-RM do torax e membros superiores
+20703;RM do abdomen, pelve e membros inferiores;20703-RM do abdomen, pelve e membros inferiores
+20801;Aparelho cardiovascular;20801-Aparelho cardiovascular
+20802;Aparelho digestivo;20802-Aparelho digestivo
+20803;Aparelho endócrino;20803-Aparelho endócrino
+20804;Aparelho geniturinário;20804-Aparelho geniturinário
+20805;Aparelho esquelético;20805-Aparelho esquelético
+20806;Aparelho nervoso;20806-Aparelho nervoso
+20807;Aparelho respiratório;20807-Aparelho respiratório
+20808;Aparelho hematológico;20808-Aparelho hematológico
+20809;Outros métodos de diagnóstico em medicina nuclear in vivo;20809-Outros métodos de diagnóstico em medicina nuclear in vivo
+20901;Aparelho digestivo;20901-Aparelho digestivo
+20902;Aparelho urinário;20902-Aparelho urinário
+20903;Aparelho ginecológico;20903-Aparelho ginecológico
+20904;Aparelho respiratório;20904-Aparelho respiratório
+21001;Exames radiológicos de vasos sangüíneos e linfáticos;21001-Exames radiológicos de vasos sangüíneos e linfáticos
+21002;Vias biliares;21002-Vias biliares
+21101;Diagnóstico em angiologia;21101-Diagnóstico em angiologia
+21102;Diagnóstico em cardiologia;21102-Diagnóstico em cardiologia
+21103;Diagnóstico cinético funcional;21103-Diagnóstico cinético funcional
+21104;Diagnóstico em ginecologia-obstetrícia;21104-Diagnóstico em ginecologia-obstetrícia
+21105;Diagnóstico em neurologia;21105-Diagnóstico em neurologia
+21106;Diagnóstico em oftalmologia;21106-Diagnóstico em oftalmologia
+21107;Diagnóstico em otorrinolaringologia/fonoaudiologia;21107-Diagnóstico em otorrinolaringologia/fonoaudiologia
+21108;Diagnóstico em pneumologia;21108-Diagnóstico em pneumologia
+21109;Diagnóstico em urologia;21109-Diagnóstico em urologia
+21110;Diagnóstico em psicologia-psiquiatria;21110-Diagnóstico em psicologia-psiquiatria
+21201;Exames do doador/receptor;21201-Exames do doador/receptor
+21202;Procedimentos especiais em hemoterápica;21202-Procedimentos especiais em hemoterápica
+21301;Exames relacionados a doenças e agravos de notificação compulsória;21301-Exames relacionados a doenças e agravos de notificação compulsória
+21302;Exames relacionados ao meio ambiente;21302-Exames relacionados ao meio ambiente
+21401;Teste realizado fora da estrutura de laboratório;21401-Teste realizado fora da estrutura de laboratório
+30101;Consultas médicas/outros profissionais  de nivel superior;30101-Consultas médicas/outros profissionais  de nivel superior
+30102;Atendimento/Acompanhamento em saúde do trabalhador;30102-Atendimento/Acompanhamento em saúde do trabalhador
+30103;Atendimento pré-hospitalar de urgência;30103-Atendimento pré-hospitalar de urgência
+30104;Outros atendimentos realizados por profissionais de níveis superior;30104-Outros atendimentos realizados por profissionais de níveis superior
+30105;Atenção domiciliar;30105-Atenção domiciliar
+30106;Consulta/Atendimento ás urgências (em geral);30106-Consulta/Atendimento ás urgências (em geral)
+30107;Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências;30107-Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências
+30108;Atendimento/Acompanhamento psicossocial;30108-Atendimento/Acompanhamento psicossocial
+30109;Atendimento/Acompanhamento em saúde do idoso;30109-Atendimento/Acompanhamento em saúde do idoso
+30110;Atendimentos de enfermagem (em geral);30110-Atendimentos de enfermagem (em geral)
+30111;Atendimento/Acompanhamento queimados;30111-Atendimento/Acompanhamento queimados
+30112;Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais;30112-Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais
+30113;Acompanhamento em outras especialidades;30113-Acompanhamento em outras especialidades
+30114;Cuidados Paliativos;30114-Cuidados Paliativos
+30201;Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas;30201-Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas
+30202;Assistência fisioterapêutica em alterações oncológicas;30202-Assistência fisioterapêutica em alterações oncológicas
+30203;Assistência fisioterapêutica em oftalmologia;30203-Assistência fisioterapêutica em oftalmologia
+30204;Assistência fisioterapêutica cardiovasculares e pneumo-funcionais;30204-Assistência fisioterapêutica cardiovasculares e pneumo-funcionais
+30205;Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens);30205-Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)
+30206;Assistência fisioterapêutica nas alterações em neurologia;30206-Assistência fisioterapêutica nas alterações em neurologia
+30207;Assistência fisioterapêutica em queimados;30207-Assistência fisioterapêutica em queimados
+30301;Tratamento de doenças infecciosas e parasitárias;30301-Tratamento de doenças infecciosas e parasitárias
+30302;Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários;30302-Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários
+30303;Tratamento de doenças endocrinas, metabólicas e nutricionais;30303-Tratamento de doenças endocrinas, metabólicas e nutricionais
+30304;Tratamento de doenças do sistema nervoso central e periférico;30304-Tratamento de doenças do sistema nervoso central e periférico
+30305;Tratamento de doenças do aparelho da visão;30305-Tratamento de doenças do aparelho da visão
+30306;Tratamento de doenças cardiovasculares;30306-Tratamento de doenças cardiovasculares
+30307;Tratamento de doenças do aparelho digestivo;30307-Tratamento de doenças do aparelho digestivo
+30308;Tratamento de doenças da pele e do tecido  subcutâneo;30308-Tratamento de doenças da pele e do tecido  subcutâneo
+30309;Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo;30309-Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo
+30310;Tratamento durante a gestação, parto e puerpério;30310-Tratamento durante a gestação, parto e puerpério
+30311;Tratamento de malformações congênitas, deformidades e anomalias cromossômicas;30311-Tratamento de malformações congênitas, deformidades e anomalias cromossômicas
+30312;Tratamentos por medicina nuclear in vivo;30312-Tratamentos por medicina nuclear in vivo
+30313;Tratamento de pacientes sob cuidados prolongados;30313-Tratamento de pacientes sob cuidados prolongados
+30314;Tratamento de doenças do ouvido/apófise mastóide e vias aéreas;30314-Tratamento de doenças do ouvido/apófise mastóide e vias aéreas
+30315;Tratamento das doenças do aparelho geniturinário;30315-Tratamento das doenças do aparelho geniturinário
+30316;Tratamento de algumas afecçõess originadas no período neonatal;30316-Tratamento de algumas afecçõess originadas no período neonatal
+30317;Tratamento dos transtornos mentais e comportamentais;30317-Tratamento dos transtornos mentais e comportamentais
+30318;Tratamento HIV/Aids;30318-Tratamento HIV/Aids
+30319;Reabilitação;30319-Reabilitação
+30401;Radioterapia;30401-Radioterapia
+30402;Quimioterapia paliativa - adulto;30402-Quimioterapia paliativa - adulto
+30403;Quimioterapia para controle temporário de doença - adulto;30403-Quimioterapia para controle temporário de doença - adulto
+30404;Quimioterapia prévia (neoadjuvante/citorredutora)- adulto;30404-Quimioterapia prévia (neoadjuvante/citorredutora)- adulto
+30405;Quimioterapia adjuvante (profilática) - adulto;30405-Quimioterapia adjuvante (profilática) - adulto
+30406;Quimioterapia curativa - adulto;30406-Quimioterapia curativa - adulto
+30407;Quimioterapia de tumores de crianca e adolescente;30407-Quimioterapia de tumores de crianca e adolescente
+30408;Quimioterapia - procedimentos especiais;30408-Quimioterapia - procedimentos especiais
+30409;Medicina nuclear - terapêutica oncológica;30409-Medicina nuclear - terapêutica oncológica
+30410;Gerais em oncologia;30410-Gerais em oncologia
+30501;Tratamento dialítico;30501-Tratamento dialítico
+30502;Tratamento em nefrologia em geral;30502-Tratamento em nefrologia em geral
+30601;Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica;30601-Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica
+30602;Medicina transfusional;30602-Medicina transfusional
+30701;Dentística;30701-Dentística
+30702;Endodontia;30702-Endodontia
+30703;Periodontia clínica;30703-Periodontia clínica
+30704;Moldagem/Manutenção;30704-Moldagem/Manutenção
+30801;Traumatismos;30801-Traumatismos
+30802;Intoxicações e envenenamentos;30802-Intoxicações e envenenamentos
+30803;Outras consequências de causas externas;30803-Outras consequências de causas externas
+30804;Complicações consequentes a procedimentos em saúde;30804-Complicações consequentes a procedimentos em saúde
+30901;Terapia nutricional;30901-Terapia nutricional
+30902;Terapias em doenças alérgicas;30902-Terapias em doenças alérgicas
+30903;Terapias do aparelho geniturinário;30903-Terapias do aparelho geniturinário
+30904;Terapias do aparelho cardiovascular;30904-Terapias do aparelho cardiovascular
+30905;Práticas integrativas e complementares;30905-Práticas integrativas e complementares
+30906;Acessos venosos;30906-Acessos venosos
+30907;Angiologia;30907-Angiologia
+31001;Parto e nascimento;31001-Parto e nascimento
+40101;Pequenas cirurgias;40101-Pequenas cirurgias
+40102;Cirurgias de pele, tecido subcutâneo e mucosa;40102-Cirurgias de pele, tecido subcutâneo e mucosa
+40201;Cirurgia de tireóide e paratireóide;40201-Cirurgia de tireóide e paratireóide
+40202;Cirurgia da suprarrenal;40202-Cirurgia da suprarrenal
+40301;Trauma e anomalias do desenvolvimento;40301-Trauma e anomalias do desenvolvimento
+40302;Coluna e nervos periféricos;40302-Coluna e nervos periféricos
+40303;Tumores do sistema nervoso;40303-Tumores do sistema nervoso
+40304;Neurocirurgias vasculares;40304-Neurocirurgias vasculares
+40305;Tratamento neurocirúrgico da dor funcional;40305-Tratamento neurocirúrgico da dor funcional
+40306;Investigação e cirurgia da epilepsia;40306-Investigação e cirurgia da epilepsia
+40307;Tratamento neuro-endovascular;40307-Tratamento neuro-endovascular
+40308;Neurocirurgia funcional estereotáxica;40308-Neurocirurgia funcional estereotáxica
+40401;Cirurgia das vias aéreas superiores e do pescoço;40401-Cirurgia das vias aéreas superiores e do pescoço
+40402;Cirurgia da face e do sistema estomatognático;40402-Cirurgia da face e do sistema estomatognático
+40403;Anomalia Crânio e bucomaxilo facial;40403-Anomalia Crânio e bucomaxilo facial
+40501;Palpebras e vias lacrimais;40501-Palpebras e vias lacrimais
+40502;Músculos oculomotores;40502-Músculos oculomotores
+40503;Corpo vítreo, retina, coróide e esclera;40503-Corpo vítreo, retina, coróide e esclera
+40504;Cavidade orbitária e globo ocular;40504-Cavidade orbitária e globo ocular
+40505;Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino;40505-Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino
+40601;Cirurgia cardiovascular;40601-Cirurgia cardiovascular
+40602;Cirurgia vascular;40602-Cirurgia vascular
+40603;Cardiologia intervencionista;40603-Cardiologia intervencionista
+40604;Cirurgia endovascular;40604-Cirurgia endovascular
+40605;Eletrofisiologia;40605-Eletrofisiologia
+40701;Esôfago, estômago e duodeno;40701-Esôfago, estômago e duodeno
+40702;Intestinos , reto e anus;40702-Intestinos , reto e anus
+40703;Pancreas, baco, figado e vias biliares;40703-Pancreas, baco, figado e vias biliares
+40704;Parede e cavidade abdominal;40704-Parede e cavidade abdominal
+40801;Cintura escapular;40801-Cintura escapular
+40802;Membros superiores;40802-Membros superiores
+40803;Coluna vertebral e caixa torácica;40803-Coluna vertebral e caixa torácica
+40804;Cintura pélvica;40804-Cintura pélvica
+40805;Membros inferiores;40805-Membros inferiores
+40806;Gerais;40806-Gerais
+40901;Rim, ureter e bexiga;40901-Rim, ureter e bexiga
+40902;Uretra;40902-Uretra
+40903;Próstata e vesicula seminal;40903-Próstata e vesicula seminal
+40904;Bolsa escrotal, testículos e cordão espermático;40904-Bolsa escrotal, testículos e cordão espermático
+40905;Pênis;40905-Pênis
+40906;Útero e anexos;40906-Útero e anexos
+40907;Vagina, vulva e períneo;40907-Vagina, vulva e períneo
+41001;Mama;41001-Mama
+41101;Parto;41101-Parto
+41102;Outras cirurgias relacionadas com o estado gestacional;41102-Outras cirurgias relacionadas com o estado gestacional
+41201;Traqueia e brônquios;41201-Traqueia e brônquios
+41202;Mediastino;41202-Mediastino
+41203;Pleura;41203-Pleura
+41204;Parede torácica;41204-Parede torácica
+41205;Pulmão;41205-Pulmão
+41301;Tratamento de queimados;41301-Tratamento de queimados
+41303;Reparadora para lipodistrofia;41303-Reparadora para lipodistrofia
+41304;Outras cirurgias plásticas/reparadoras;41304-Outras cirurgias plásticas/reparadoras
+41401;Buco-maxilo-facial;41401-Buco-maxilo-facial
+41402;Cirurgia oral;41402-Cirurgia oral
+41501;Múltiplas;41501-Múltiplas
+41502;Sequenciais;41502-Sequenciais
+41503;Politraumatizados;41503-Politraumatizados
+41504;Procedimentos cirúrgicos gerais;41504-Procedimentos cirúrgicos gerais
+41601;Urologia;41601-Urologia
+41602;Sistema linfático;41602-Sistema linfático
+41603;Cabeça e pescoço;41603-Cabeça e pescoço
+41604;Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais;41604-Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais
+41605;Colo-proctologia;41605-Colo-proctologia
+41606;Ginecologia;41606-Ginecologia
+41608;Pele e cirurgia plástica;41608-Pele e cirurgia plástica
+41609;Ossos e partes moles;41609-Ossos e partes moles
+41611;Cirurgia torácica;41611-Cirurgia torácica
+41612;Mastologia;41612-Mastologia
+41701;Anestesias;41701-Anestesias
+41801;Acessos para dialise;41801-Acessos para dialise
+41802;Intervençõess cirúrgicas em acessos para diálise;41802-Intervençõess cirúrgicas em acessos para diálise
+50101;Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional);50101-Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)
+50102;Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas;50102-Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas
+50103;Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional);50103-Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional)
+50104;Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos;50104-Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos
+50105;Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos;50105-Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos
+50106;Exames gráficos ou por imagem para diagnóstico de morte encefálica;50106-Exames gráficos ou por imagem para diagnóstico de morte encefálica
+50107;Outros exames complementares para doação de orgãos, tecidos e células;50107-Outros exames complementares para doação de orgãos, tecidos e células
+50108;Exames complementares para pacientes transplantados;50108-Exames complementares para pacientes transplantados
+50201;Avaliação clínica de morte encefálica;50201-Avaliação clínica de morte encefálica
+50301;Ações relacionadas a doação de orgãos e tecidos para transpalnte;50301-Ações relacionadas a doação de orgãos e tecidos para transpalnte
+50302;Cirurgias para transplante - doador vivo;50302-Cirurgias para transplante - doador vivo
+50303;Manutenção e retirada de orgãos e tecidos para transplante;50303-Manutenção e retirada de orgãos e tecidos para transplante
+50304;Açõess complementares destinadas a doação de orgãos, tecidos e células.;50304-Açõess complementares destinadas a doação de orgãos, tecidos e células.
+50401;Processamento de córnea/esclera;50401-Processamento de córnea/esclera
+50402;Processamento de tecido ósteo-fascio-condro-ligamentoso humano;50402-Processamento de tecido ósteo-fascio-condro-ligamentoso humano
+50403;Processamento de válvula/tubo valvado cardíaco humano;50403-Processamento de válvula/tubo valvado cardíaco humano
+50404;Processamento de pele humana;50404-Processamento de pele humana
+50501;Transplante de tecidos e células;50501-Transplante de tecidos e células
+50502;Transplante de orgãos;50502-Transplante de orgãos
+50601;Acompanhamento de paciente no pré e pós-transplante;50601-Acompanhamento de paciente no pré e pós-transplante
+50602;Intercorrência pós transplante;50602-Intercorrência pós transplante
+60301;Antiinflamatórios;60301-Antiinflamatórios
+60302;Imunossupressores;60302-Imunossupressores
+60303;Imunoterápicos;60303-Imunoterápicos
+60304;Reguladores de atividade hormonal - inibidores da prolactina;60304-Reguladores de atividade hormonal - inibidores da prolactina
+60305;Antitrombóticos;60305-Antitrombóticos
+60306;Tensiolítico alveolar;60306-Tensiolítico alveolar
+60307;Hemoderivados;60307-Hemoderivados
+60308;Medicamentos para transplante;60308-Medicamentos para transplante
+60401;Acido Aminosalicilico e Similares;60401-Acido Aminosalicilico e Similares
+60402;Agentes Quelantes de Ferro;60402-Agentes Quelantes de Ferro
+60403;Agonistas da Dopamina/inibidor da prolactina;60403-Agonistas da Dopamina/inibidor da prolactina
+60404;Agonistas seletivos dos receptores beta 2 adrenérgicos;60404-Agonistas seletivos dos receptores beta 2 adrenérgicos
+60405;Alcalóides naturais do ópio;60405-Alcalóides naturais do ópio
+60406;Alimentos dietéticos isentos de fenilalanina;60406-Alimentos dietéticos isentos de fenilalanina
+60407;Aminas Terciárias;60407-Aminas Terciárias
+60408;Aminoquinolinas;60408-Aminoquinolinas
+60409;Análogos da mostarda nitrogenada;60409-Análogos da mostarda nitrogenada
+60410;Vasopressina e Análogos;60410-Vasopressina e Análogos
+60411;Análogos do hormônio liberador de gonadotrofina;60411-Análogos do hormônio liberador de gonadotrofina
+60412;Antiandrogênios;60412-Antiandrogênios
+60413;Anticolinesterases;60413-Anticolinesterases
+60414;Antigonadotrofinas e agentes similares;60414-Antigonadotrofinas e agentes similares
+60415;Barbitúricos e derivados;60415-Barbitúricos e derivados
+60416;Bisfosfonados;60416-Bisfosfonados
+60417;Compostos de Alumínio;60417-Compostos de Alumínio
+60418;Derivados da benzodiazepina;60418-Derivados da benzodiazepina
+60419;Derivados de ácidos graxos;60419-Derivados de ácidos graxos
+60420;Derivados do adamantano;60420-Derivados do adamantano
+60421;Derivados do indol;60421-Derivados do indol
+60422;Derivados da succinimida;60422-Derivados da succinimida
+60423;Diazepinas, oxazepinas e tiazepinas;60423-Diazepinas, oxazepinas e tiazepinas
+60424;Enzimas;60424-Enzimas
+60425;Fatores de estimulação de colônias;60425-Fatores de estimulação de colônias
+60426;Ferro trivalente, preparações parenterais;60426-Ferro trivalente, preparações parenterais
+60427;Fibratos, Acido Nicotínico e seus derivados;60427-Fibratos, Acido Nicotínico e seus derivados
+60428;Glicocorticóides;60428-Glicocorticóides
+60429;Somatostatina e Análogos;60429-Somatostatina e Análogos
+60430;Imunoglobulinas específicas;60430-Imunoglobulinas específicas
+60431;Imunoglobulinas, humana normal;60431-Imunoglobulinas, humana normal
+60432;Imunossupressores seletivos;60432-Imunossupressores seletivos
+60433;Inibidores da agregação plaquetária, excl. heparina;60433-Inibidores da agregação plaquetária, excl. heparina
+60434;Inibidores da calcineurina;60434-Inibidores da calcineurina
+60435;Inibidores da fosfodiesterase;60435-Inibidores da fosfodiesterase
+60436;Inibidores da HMG-CoA redutase;60436-Inibidores da HMG-CoA redutase
+60437;Inibidores da monoamino oxidase tipo b;60437-Inibidores da monoamino oxidase tipo b
+60438;Inibidores do fator de necrose tumoral alfa (TNF-a);60438-Inibidores do fator de necrose tumoral alfa (TNF-a)
+60439;Interferonas;60439-Interferonas
+60440;Medicamentos para tratamento da hipercalemia e hiperfosfatemia;60440-Medicamentos para tratamento da hipercalemia e hiperfosfatemia
+60441;Medicamentos utilizados na dependência de opióides;60441-Medicamentos utilizados na dependência de opióides
+60442;Mineralocorticóides;60442-Mineralocorticóides
+60443;Modulador seletivo de receptor de estrogênio;60443-Modulador seletivo de receptor de estrogênio
+60444;Mucolíticos;60444-Mucolíticos
+60445;Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa);60445-Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)
+60446;Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa;60446-Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa
+60447;Outras preparações antianêmicas;60447-Outras preparações antianêmicas
+60448;Outros agentes citotóxicos;60448-Outros agentes citotóxicos
+60449;Outros agentes dopaminérgicos;60449-Outros agentes dopaminérgicos
+60450;Outros antiepilépticos;60450-Outros antiepilépticos
+60451;Outros antipsicóticos;60451-Outros antipsicóticos
+60452;Outros imunoestimulantes;60452-Outros imunoestimulantes
+60453;Outros imunossupressores;60453-Outros imunossupressores
+60454;Outros medicamentos do sistema nervoso;60454-Outros medicamentos do sistema nervoso
+60455;Outros relaxantes musculares de ação periférica;60455-Outros relaxantes musculares de ação periférica
+60456;Penicilamina e agentes similares;60456-Penicilamina e agentes similares
+60457;Preparações de calcitonina;60457-Preparações de calcitonina
+60458;Preparações de enzimas;60458-Preparações de enzimas
+60459;Retinóides para tratamento da acne;60459-Retinóides para tratamento da acne
+60460;Retinóides para tratamento da psoríase;60460-Retinóides para tratamento da psoríase
+60461;Somatropina e agonistas da somatropina;60461-Somatropina e agonistas da somatropina
+60462;Vitamina D e análogos, incluido combinação dos dois;60462-Vitamina D e análogos, incluido combinação dos dois
+60463;Produtos diversos para o trato alimentar ou metabolismo;60463-Produtos diversos para o trato alimentar ou metabolismo
+60464;Inibidores de Protease;60464-Inibidores de Protease
+60465;Análogos das Prostaglandinas;60465-Análogos das Prostaglandinas
+60466;Inibidores da Anidrase Carbonica;60466-Inibidores da Anidrase Carbonica
+60467;Simpatomiméticos na Terapia de Glaucoma;60467-Simpatomiméticos na Terapia de Glaucoma
+60468;Anticorpos Monoclonais;60468-Anticorpos Monoclonais
+60469;Inibidores de Interleucinas;60469-Inibidores de Interleucinas
+60470;Outros Antipsoriaticos de Uso Tópico;60470-Outros Antipsoriaticos de Uso Tópico
+60471;Corticoesteróides de Potência Muito Alta (Grupo IV);60471-Corticoesteróides de Potência Muito Alta (Grupo IV)
+60472;Derivados do Ácido Propriônico;60472-Derivados do Ácido Propriônico
+60473;Parassimpaticomiméticos;60473-Parassimpaticomiméticos
+60474;Agentes Beta Bloqueadores;60474-Agentes Beta Bloqueadores
+60475;Outros Anti-hipertensivos;60475-Outros Anti-hipertensivos
+60476;Outros Antivirais;60476-Outros Antivirais
+60477;Outros Agentes Antiparatireoide;60477-Outros Agentes Antiparatireoide
+60478;Insulinas Análogas de Ação Rápida de Uso Injetável;60478-Insulinas Análogas de Ação Rápida de Uso Injetável
+70101;OPM auxiliares da locomoção;70101-OPM auxiliares da locomoção
+70102;OPM ortopédicas;70102-OPM ortopédicas
+70103;OPM auditivas;70103-OPM auditivas
+70104;OPM oftalmológicas;70104-OPM oftalmológicas
+70105;OPM em gastroenterologia;70105-OPM em gastroenterologia
+70106;OPM em urologia;70106-OPM em urologia
+70107;OPM em odontologia;70107-OPM em odontologia
+70108;OPM de anomalias buco-maxilo-facial;70108-OPM de anomalias buco-maxilo-facial
+70109;Substituição/Troca em órteses/próteses;70109-Substituição/Troca em órteses/próteses
+70110;OPM em queimados;70110-OPM em queimados
+70201;OPM em neurocirurgia;70201-OPM em neurocirurgia
+70202;OPM em cirurgia buco-maxilo-facial;70202-OPM em cirurgia buco-maxilo-facial
+70203;OPM em ortopedia;70203-OPM em ortopedia
+70204;OPM em assistência cardiovascular;70204-OPM em assistência cardiovascular
+70205;OPM comuns;70205-OPM comuns
+70206;OPM em urologia;70206-OPM em urologia
+70207;OPM em cirurgias oftálmicas;70207-OPM em cirurgias oftálmicas
+70208;OPM em cirurgia plástica/reparadora;70208-OPM em cirurgia plástica/reparadora
+70209;OPM em cirurgia de otorrinolaringologia;70209-OPM em cirurgia de otorrinolaringologia
+70210;OPM em nefrologia;70210-OPM em nefrologia
+70211;OPM em queimados;70211-OPM em queimados
+70212;OPM para transplantes;70212-OPM para transplantes
+80101;Incentivos;80101-Incentivos
+80201;Diárias;80201-Diárias
+80202;Outras ações;80202-Outras ações
+80301;Deslocamento/Ajuda de custo;80301-Deslocamento/Ajuda de custo
